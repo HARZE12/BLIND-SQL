@@ -5,7 +5,7 @@
 
 
 
-**BSS** is a powerful and user-friendly tool designed to detect Blind SQL Injection vulnerabilities in web applications. Built with Python, this tool allows security researchers, penetration testers, and developers to test URLs for potential Blind SQLi vulnerabilities using custom payloads. Whether you're testing a single URL or a list of URLs, BSQLI provides detailed results and saves vulnerable URLs for further analysis.
+**BSS** is a powerful and user-friendly tool designed to detect Blind SQL Injection vulnerabilities in web applications. Built with Python, this tool allows security researchers, penetration testers, and developers to test URLs for potential Blind SQLi vulnerabilities using custom payloads. Whether you're testing a single URL or a list of URLs, BSS provides detailed results and saves vulnerable URLs for further analysis.
 
 ---
 
