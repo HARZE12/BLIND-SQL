@@ -1,6 +1,7 @@
 # Blind SQL Scanner (BSS)
 
-![image](https://github.com/user-attachments/assets/e81572a7-7405-4db6-828c-06d4261aa294)
+![image](https://github.com/user-attachments/assets/1e1ecac1-7046-41fe-ba68-6205d394049b)
+
 
 
 
@@ -27,12 +28,8 @@ Required Python libraries: requests, argparse (typically these come with Python,
 
 
 
+
 ## Installation
-
-  ```bash
-   git clone https://github.com/HARZE12/BSS.git
-   cd BSS
-
 
 1. Clone the repository:
    ```bash
