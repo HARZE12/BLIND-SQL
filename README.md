@@ -1,10 +1,10 @@
-# Blind SQL Injection Scanner (BSQLI)
+# Blind SQL Scanner (BSS)
 
 ![image](https://github.com/user-attachments/assets/e81572a7-7405-4db6-828c-06d4261aa294)
 
 
 
-**BSQLI** is a powerful and user-friendly tool designed to detect Blind SQL Injection vulnerabilities in web applications. Built with Python, this tool allows security researchers, penetration testers, and developers to test URLs for potential Blind SQLi vulnerabilities using custom payloads. Whether you're testing a single URL or a list of URLs, BSQLI provides detailed results and saves vulnerable URLs for further analysis.
+**BSS** is a powerful and user-friendly tool designed to detect Blind SQL Injection vulnerabilities in web applications. Built with Python, this tool allows security researchers, penetration testers, and developers to test URLs for potential Blind SQLi vulnerabilities using custom payloads. Whether you're testing a single URL or a list of URLs, BSQLI provides detailed results and saves vulnerable URLs for further analysis.
 
 ---
 
@@ -30,14 +30,14 @@ Required Python libraries: requests, argparse (typically these come with Python,
 ## Installation
 
   ```bash
-   git clone https://github.com/HARZE12/BSQLI.git
-   cd BSQLI
+   git clone https://github.com/HARZE12/BSS.git
+   cd BSS
 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/HARZE12/BSQLI.git
-   cd BSQLI
+   git clone https://github.com/HARZE12/BSS.git
+   cd BSS
    pip install requests
 
 
