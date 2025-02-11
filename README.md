@@ -31,11 +31,22 @@ Required Python libraries: requests, argparse (typically these come with Python,
 
 ## Installation
 
-1. Clone the repository:
-   ```bash
+1. Create a virtual environment (optional but recommended):
+
+Environment Setup
+To ensure the tool runs smoothly:
+```
+python3 -m venv venv
+source venv/bin/activate  # On Windows: venv\Scripts\activate
+```
+
+2. Clone the repository:
+```
    git clone https://github.com/HARZE12/BSS.git
    cd BSS
    pip install requests
+```
 
 
 
+⚠️ Disclaimer: The content in this repository is for educational and informational purposes only; the authors hold no responsibility for misuse. Ensure proper authorization before use, act responsibly at your own risk, and comply with all legal and ethical guidelines. 
