@@ -47,10 +47,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
    pip install requests
 ```
 
-##Usage
-
-3. To use
-   
+3. Usage
 ```
 python3 BSS-TOOL.py
 
