@@ -42,7 +42,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 2. Clone the repository:
 ```
-   git clone https://github.com/HARZE12/BSS.git
+   git clone https://github.com/HARZE12/BSS-TOOL.git
    cd BSS
    pip install requests
 ```
